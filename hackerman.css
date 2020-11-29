@@ -15,10 +15,10 @@ input[type="text"]{
 
 }
 #div1{
- left:0;
+ left:0%;
  position:relative;
  text-align:center;
- width:100%;
+ 
  border-style:solid;
  border-color:lime;
  height:100%
