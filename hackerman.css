@@ -9,6 +9,7 @@ background-color:black;
  
 }
 input[type="text"]{
+ width:100%;
  font-size:30px;
  background-color:black;
  border-style:none;
