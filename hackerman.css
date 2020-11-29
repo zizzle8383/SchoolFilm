@@ -8,6 +8,7 @@ background-color:black;
  
 }
 input[type="text"]{
+ font-size:30px;
  background-color:black;
  border-style:none;
  text-align:left;
@@ -15,17 +16,18 @@ input[type="text"]{
 
 }
 #div1{
- left:0%;
+ left:10%;
  position:absolute;
  text-align:center;
- width:99%;
+ width:80%;
  border-style:solid;
  border-color:lime;
  height:100%
- font-size:35px;
+ 
 }
 
 h3{
+ font-size:30px;
  display:inline-block;
  text-align:center;
  color:lime;
