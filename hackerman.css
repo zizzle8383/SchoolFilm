@@ -16,6 +16,7 @@ input[type="text"]{
  
 }
 #div1{
+ background-color:black;
  left:10%;
  position:absolute;
  text-align:left;
