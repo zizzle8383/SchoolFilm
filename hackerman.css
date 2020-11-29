@@ -3,7 +3,7 @@ body{
 }
 .greentext{
 color:lime;
-text-align:center;
+
 background-color:black;
  
 }
@@ -15,8 +15,13 @@ input[type="text"]{
 #div1{
  text-align:center;
  right:50%;
+ text-align:center;
 }
 
 h3{
  display:inline-block;
+ text-align:center;
+}
+h1{
+ text-align:center;
 }
