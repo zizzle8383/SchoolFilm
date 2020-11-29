@@ -18,6 +18,8 @@ input[type="text"]{
  text-align:center;
  right:50%;
  text-align:center;
+ border-style:solid;
+ border-color:lime;
 }
 
 h3{
