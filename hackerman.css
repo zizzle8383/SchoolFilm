@@ -16,9 +16,9 @@ input[type="text"]{
 }
 #div1{
  left:0%;
- position:relative;
+ position:absolute;
  text-align:center;
- 
+ width:99%;
  border-style:solid;
  border-color:lime;
  height:100%
