@@ -15,7 +15,7 @@ input[type="text"]{
 
 }
 #div1{
- position:fixed;
+ position:relative;
  text-align:center;
  width:100%;
  border-style:solid;
