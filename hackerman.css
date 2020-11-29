@@ -16,3 +16,7 @@ input[type="text"]{
  text-align:center;
  right:50%;
 }
+
+h3{
+ display:inline-block;
+}
