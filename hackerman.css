@@ -12,10 +12,7 @@ input[type="text"]{
  border-style:none;
  text-align:left;
  outline: none;
- animation-name: blink;
- animation-duration: 1s;
- animation-iteration-count: infinite;
- animation-direction:alternate;
+
 }
 #div1{
  text-align:center;
