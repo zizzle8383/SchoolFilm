@@ -15,9 +15,10 @@ input[type="text"]{
 
 }
 #div1{
+ position:absolute;
  text-align:center;
  right:50%;
- text-align:center;
+ 
  border-style:solid;
  border-color:lime;
  height:100%;
