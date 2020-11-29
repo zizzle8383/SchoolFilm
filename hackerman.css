@@ -7,8 +7,9 @@ text-align:center;
 background-color:black;
  
 }
-input{
+input[type="text"]{
  background-color:black;
+ border-style:none;
 }
 #div1{
  text-align:center;
