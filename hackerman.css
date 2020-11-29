@@ -13,12 +13,12 @@ input[type="text"]{
  border-style:none;
  text-align:left;
  outline: none;
-
+ 
 }
 #div1{
  left:10%;
  position:absolute;
- text-align:center;
+ text-align:left;
  width:80%;
  border-style:solid;
  border-color:lime;
@@ -29,7 +29,7 @@ input[type="text"]{
 h3{
  font-size:30px;
  display:inline-block;
- text-align:center;
+ 
  color:lime;
  animation-name: blink;
  animation-duration: 1s;
